@@ -22,7 +22,8 @@
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Java, Python, C++  
+- **Languages:** Java, Python, C#
+- **Frameworks:** ASP.NET CORE  
 - **Frontend Tools:** HTML, CSS, React  
 - **Backend Tools:** Flask, MongoDb, MySQL, Docker
 - **Version Control:** Git & GitHub  
