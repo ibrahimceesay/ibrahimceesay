@@ -25,7 +25,6 @@
 - **Languages:** Java, Python, C#
 - **Frameworks:** ASP.NET CORE  
 - **Frontend Tools:** HTML, CSS 
-- **Backend Tools:** Flask, MongoDb, MySQL, Docker
 - **Version Control:** Git & GitHub  
 
 ---
