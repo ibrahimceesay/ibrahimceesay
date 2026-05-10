@@ -16,7 +16,7 @@
 ## 🔗 Let's Connect  
 
 - 💼 [LinkedIn: Ibrahim Ceesay](https://www.linkedin.com/in/ibrahim-ceesay-631861285/)  
-- 📧 Reach me at: [ibraceesay.15@icloud.com](mailto:ibraceesay981@gmail.com)  
+- 📧 Reach me at: [ibraceesay981@gmail.com](mailto:ibraceesay981@gmail.com)  
 
 ---
 
